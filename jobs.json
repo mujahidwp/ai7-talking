@@ -1,0 +1,126 @@
+[
+ {
+  "seg": "hook_0",
+  "pose": "explain"
+ },
+ {
+  "seg": "hello_0",
+  "pose": "wave"
+ },
+ {
+  "seg": "rules_0",
+  "pose": "count"
+ },
+ {
+  "seg": "t1_0",
+  "pose": "laptop"
+ },
+ {
+  "seg": "chatgpt_0",
+  "pose": "type"
+ },
+ {
+  "seg": "t1tips_0",
+  "pose": "count"
+ },
+ {
+  "seg": "t2_0",
+  "pose": "explain"
+ },
+ {
+  "seg": "gemini_0",
+  "pose": "type"
+ },
+ {
+  "seg": "t2tips_0",
+  "pose": "think"
+ },
+ {
+  "seg": "t3_0",
+  "pose": "laptop"
+ },
+ {
+  "seg": "perplexity_0",
+  "pose": "type"
+ },
+ {
+  "seg": "t3tips_0",
+  "pose": "you"
+ },
+ {
+  "seg": "t4_0",
+  "pose": "explain"
+ },
+ {
+  "seg": "imagegen_0",
+  "pose": "type"
+ },
+ {
+  "seg": "imagegen_1",
+  "pose": "type"
+ },
+ {
+  "seg": "t4tips_0",
+  "pose": "count"
+ },
+ {
+  "seg": "t5_0",
+  "pose": "thumbs"
+ },
+ {
+  "seg": "bgremove_0",
+  "pose": "type"
+ },
+ {
+  "seg": "t5tips_0",
+  "pose": "laptop"
+ },
+ {
+  "seg": "t6_0",
+  "pose": "think"
+ },
+ {
+  "seg": "upscale_0",
+  "pose": "type"
+ },
+ {
+  "seg": "t6tips_0",
+  "pose": "count"
+ },
+ {
+  "seg": "t7_0",
+  "pose": "explain"
+ },
+ {
+  "seg": "vocal_0",
+  "pose": "type"
+ },
+ {
+  "seg": "t7tips_0",
+  "pose": "you"
+ },
+ {
+  "seg": "bonus_0",
+  "pose": "type"
+ },
+ {
+  "seg": "mistakes_0",
+  "pose": "count"
+ },
+ {
+  "seg": "combo_0",
+  "pose": "laptop"
+ },
+ {
+  "seg": "recap_0",
+  "pose": "count"
+ },
+ {
+  "seg": "outro_0",
+  "pose": "thumbs"
+ },
+ {
+  "seg": "bye_0",
+  "pose": "wave"
+ }
+]
