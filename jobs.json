@@ -16,7 +16,7 @@
   "pose": "laptop"
  },
  {
-  "seg": "chatgpt_0",
+  "seg": "brave_0",
   "pose": "type"
  },
  {
@@ -28,7 +28,7 @@
   "pose": "explain"
  },
  {
-  "seg": "gemini_0",
+  "seg": "deepl_0",
   "pose": "type"
  },
  {
@@ -40,7 +40,7 @@
   "pose": "laptop"
  },
  {
-  "seg": "perplexity_0",
+  "seg": "whisper_0",
   "pose": "type"
  },
  {
@@ -49,14 +49,10 @@
  },
  {
   "seg": "t4_0",
-  "pose": "explain"
+  "pose": "thumbs"
  },
  {
-  "seg": "imagegen_0",
-  "pose": "type"
- },
- {
-  "seg": "imagegen_1",
+  "seg": "autodraw_0",
   "pose": "type"
  },
  {
@@ -65,10 +61,10 @@
  },
  {
   "seg": "t5_0",
-  "pose": "thumbs"
+  "pose": "explain"
  },
  {
-  "seg": "bgremove_0",
+  "seg": "eraser_0",
   "pose": "type"
  },
  {
@@ -80,7 +76,11 @@
   "pose": "think"
  },
  {
-  "seg": "upscale_0",
+  "seg": "flux_0",
+  "pose": "type"
+ },
+ {
+  "seg": "flux_1",
   "pose": "type"
  },
  {
@@ -88,28 +88,8 @@
   "pose": "count"
  },
  {
-  "seg": "t7_0",
-  "pose": "explain"
- },
- {
-  "seg": "vocal_0",
-  "pose": "type"
- },
- {
-  "seg": "t7tips_0",
-  "pose": "you"
- },
- {
-  "seg": "bonus_0",
-  "pose": "type"
- },
- {
   "seg": "mistakes_0",
   "pose": "count"
- },
- {
-  "seg": "combo_0",
-  "pose": "laptop"
  },
  {
   "seg": "recap_0",
