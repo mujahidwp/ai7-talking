@@ -80,10 +80,6 @@
   "pose": "type"
  },
  {
-  "seg": "flux_1",
-  "pose": "type"
- },
- {
   "seg": "t6tips_0",
   "pose": "count"
  },
